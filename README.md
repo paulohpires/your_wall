@@ -1,1 +1,1 @@
-# Pagina de recados your_wall
+# Pagina de recados My_wall
